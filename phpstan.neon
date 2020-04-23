@@ -1,5 +1,4 @@
 includes:
-    - vendor/nunomaduro/larastan/extension.neon
     - vendor/symplify/phpstan-extensions/config/config.neon
     - vendor/phpstan/phpstan-phpunit/extension.neon
 

@@ -6,3 +6,4 @@
 /ps.bat
 /vendor
 /build
+/.phpunit.result.cache
